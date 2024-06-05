@@ -1,6 +1,6 @@
-#zezenske.github.io
+# zezenske.github.io
 
-#Szia!
+# Szia!
 
 Ez az én saját githubos dolgom, szia!
 
